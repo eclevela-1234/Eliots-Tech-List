@@ -154,10 +154,6 @@ main {
   margin-bottom: 1%;
 }
 
-/* .comment:nth-child(odd) {
-  background-color: #fff5eb;
-} */
-
 .comment .meta {
   font-size: 90%;
   margin-bottom: .5%;
