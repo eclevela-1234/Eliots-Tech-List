@@ -12,6 +12,7 @@
       <label for="post-body">Body</label>
       <textarea id="post-body" name="post-body" cols="30" rows="10">{{post.post_body}}</textarea>
     </div>
+    <div>
       {{post.vote_count}} {{format_plural "point" post.vote_count}} by you on {{format_date post.created_at}}
       |
       <a href="/post/{{post.id}}">{{post.comments.length}} {{format_plural "comment" post.comments.length}}</a>
