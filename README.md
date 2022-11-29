@@ -27,7 +27,7 @@
 https://guarded-bayou-74585.herokuapp.com/
 ## Installation Instructions
 
-To install locally, simply code the repository and run ``` npm install ```. You will need MySQL installed in advance and create a database in your root named eliots_tech_list_db.
+To install locally, simply code the repository and run ``` npm install ```. You will need MySQL installed in advance and create a database in your root named eliots_tech_list_db. Not Recommended - Just run the app online 😊
 ## Usage Information
 
 The app has an intuitive design and should be fairly self-explanatory
